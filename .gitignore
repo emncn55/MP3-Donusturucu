@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Downloaded media
+downloads/
+*.mp3
+*.mp4
+*.webm
+*.m4a
+*.part
+
+# Editors and operating system
+.vscode/
+.DS_Store
+Thumbs.db
